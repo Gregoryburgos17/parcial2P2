@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SystemBancario\bin\Debug\SystemBancario.exe.config
+C:\Users\Acer\source\repos\SystemBancario\bin\Debug\SystemBancario.exe
+C:\Users\Acer\source\repos\SystemBancario\bin\Debug\SystemBancario.pdb
+C:\Users\Acer\source\repos\SystemBancario\obj\Debug\SystemBancario.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\SystemBancario\obj\Debug\SystemBancario.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SystemBancario\obj\Debug\SystemBancario.exe
+C:\Users\Acer\source\repos\SystemBancario\obj\Debug\SystemBancario.pdb
